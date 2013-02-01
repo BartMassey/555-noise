@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Fri 18 Jan 2013 08:05:21 PM PST
+Cmp-Mod V01 Genere par PcbNew le Tue 22 Jan 2013 11:14:04 AM PST
 
 BeginCmp
 TimeStamp = /50F8527C;
@@ -22,10 +22,10 @@ IdModule  = C_ELECTRO_AVE_B;
 EndCmp
 
 BeginCmp
-TimeStamp = /50FA1A8B;
+TimeStamp = /50FED84D;
 Reference = D1;
-ValeurCmp = LEDBWD;
-IdModule  = SBLED;
+ValeurCmp = LED;
+IdModule  = CHIP_LED;
 EndCmp
 
 BeginCmp

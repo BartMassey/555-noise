@@ -1,10 +1,10 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"U1";"SO8E";1;"TS555CDT";;;
-2;"C1";"SM0603";1;"100n";;;
-3;"R1";"SM0603";1;"470";;;
-4;"R2";"SM0603";1;"220K";;;
-5;"BT1";"PIN_ARRAY_2X1";1;"BATTERY";;;
-6;"SW1";"ESWITCH";1;"SPST";;;
-7;"SP1";"PIN_ARRAY_2X1";1;"8ohm_SPEAKER";;;
-8;"C2";"C_ELECTRO_AVE_B";1;"10u";;;
-9;"D1";"LED";1;"LED";;;
+ref,value
+BT1,BATTERY
+C1,100n
+C2,10u
+D1,LED
+R1,470
+R2,220K
+SP1,8ohm SPEAKER
+SW1,SPST
+U1,TS555CDT

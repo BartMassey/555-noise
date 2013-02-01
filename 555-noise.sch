@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 18 Jan 2013 08:03:42 PM PST
+EESchema Schematic File Version 2  date Tue 22 Jan 2013 10:21:39 AM PST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "19 jan 2013"
+Date "22 jan 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -47,11 +47,11 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L LEDBWD D1
-U 1 1 50FA1A8B
+L LED D1
+U 1 1 50FED84D
 P 6400 3700
 F 0 "D1" H 6400 3800 50  0000 C CNN
-F 1 "LEDBWD" H 6400 3600 50  0000 C CNN
+F 1 "LED" H 6400 3600 50  0000 C CNN
 	1    6400 3700
 	0    1    1    0   
 $EndComp

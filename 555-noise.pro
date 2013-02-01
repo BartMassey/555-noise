@@ -1,4 +1,4 @@
-update=Fri 18 Jan 2013 08:59:35 PM PST
+update=Tue 22 Jan 2013 11:13:51 AM PST
 last_client=pcbnew
 [general]
 version=1
@@ -68,9 +68,9 @@ LibName31=TS555CDT
 LibName32=LEDBWD
 [pcbnew]
 version=1
-PadDrlX=200
-PadDimH=400
-PadDimV=400
+PadDrlX=0
+PadDimH=315
+PadDimV=315
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600
@@ -81,7 +81,7 @@ VEgarde=100
 DrawLar=150
 EdgeLar=150
 TxtLar=120
-MSegLar=150
+MSegLar=20
 LastNetListRead=
 [pcbnew/libraries]
 LibDir=modules
@@ -96,6 +96,5 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-LibName12=CHS-01TB
-LibName13=SBLED
-LibName14=ESWITCH
+LibName12=C_ELECTROLYTIC_AVE_B
+LibName13=CHIP_LED
