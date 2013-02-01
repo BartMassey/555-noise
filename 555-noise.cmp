@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Fri 18 Jan 2013 08:05:21 PM PST
+
+BeginCmp
+TimeStamp = /50F8527C;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F7D8D6;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F7DA1C;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = C_ELECTRO_AVE_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /50FA1A8B;
+Reference = D1;
+ValeurCmp = LEDBWD;
+IdModule  = SBLED;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F7D89B;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F7D8CB;
+Reference = R2;
+ValeurCmp = 220K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F7D91B;
+Reference = SP1;
+ValeurCmp = 8ohm_SPEAKER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F85826;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = ESWITCH;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F85637;
+Reference = U1;
+ValeurCmp = TS555CDT;
+IdModule  = SO8E;
+EndCmp
+
+EndListe

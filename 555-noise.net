@@ -1,0 +1,81 @@
+# EESchema Netlist Version 1.1 created  Fri 18 Jan 2013 08:05:21 PM PST
+(
+ ( /50F8527C PIN_ARRAY_2X1 BT1 BATTERY
+  ( 1 N-000005 )
+  ( 2 GND )
+ )
+ ( /50F7D8D6 SM0603 C1 100n
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /50F7DA1C C_ELECTRO_AVE_B C2 10u
+  ( 1 N-000007 )
+  ( 2 N-000006 )
+ )
+ ( /50FA1A8B SBLED D1 LEDBWD
+  ( 1 N-000009 )
+  ( 2 N-000003 )
+ )
+ ( /50F7D89B SM0603 R1 470
+  ( 1 N-000007 )
+  ( 2 N-000009 )
+ )
+ ( /50F7D8CB SM0603 R2 220K
+  ( 1 N-000008 )
+  ( 2 N-000007 )
+ )
+ ( /50F7D91B PIN_ARRAY_2X1 SP1 8ohm_SPEAKER
+  ( 1 N-000006 )
+  ( 2 GND )
+ )
+ ( /50F85826 ESWITCH SW1 SPST
+  ( 1 +9V )
+  ( 2 N-000005 )
+ )
+ ( /50F85637 SO8E U1 TS555CDT
+  ( 1 GND )
+  ( 2 N-000008 )
+  ( 3 N-000007 )
+  ( 4 +9V )
+  ( 5 N-000003 )
+  ( 6 N-000008 )
+  ( 7 ? )
+  ( 8 +9V )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
